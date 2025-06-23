@@ -148,7 +148,7 @@ export default function Home() {
                       rel="noopener noreferrer"
                       className="social-icon inline-flex items-center justify-center w-12 h-12 rounded-full bg-aromey-card shadow-lg hover:shadow-xl text-aromey-primary hover:text-aromey-accent"
                       aria-label="Twitch"
-                      href="https://www.twitch.tv/aromeyy"
+                      href="https://www.twitch.tv/aromlet"
                       whileHover={{ scale: 1.1, rotate: 5 }}
                       whileTap={{ scale: 0.9 }}
                       transition={{ duration: 0.3 }}
