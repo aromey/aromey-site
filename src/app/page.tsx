@@ -108,7 +108,7 @@ export default function Home() {
                 >
                   <div className="w-32 h-32 rounded-full overflow-hidden bg-aromey-card">
                     <Image
-                      src="https://ext.same-assets.com/3004371922/3757664734.png"
+                      src="https://cdn.discordapp.com/attachments/1182119436338069605/1407054579912151050/Untitled46_20250817041209.png?ex=68a800f1&is=68a6af71&hm=faeea8ac070614982d1b25ae97628da6fef57161fcf7bdf70660e2beb23d41a3&"
                       alt="aromey profile"
                       width={128}
                       height={128}
